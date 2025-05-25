@@ -59,13 +59,17 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=8unique&show_icons=true&theme=tokyonight" alt="8unique" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8unique&theme=tokyonight" alt="8unique" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8unique&layout=compact&theme=tokyonight" alt="8unique" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=8unique&show_icons=true&theme=tokyonight" alt="8unique" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8unique&layout=compact&theme=tokyonight" alt="8unique" style="height: 180px;" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
