@@ -1,10 +1,6 @@
 <h1 align="center">Hello 👋, I'm Lakmal Senadheera</h1>
 <h3 align="center">Full-stack & Mobile Developer | Passionate about clean code and cross-platform development</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=8unique&label=Profile%20views&color=0e75b6&style=flat" alt="8unique" />
-</p>
-
 ---
 
 ## 🚀 Tech Stack
