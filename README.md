@@ -14,8 +14,6 @@
 
 ### 📱 Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin Multiplatform Mobile](https://img.shields.io/badge/KMM-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
